@@ -1,3 +1,3 @@
-- 👋 Hi, My name is Yvon Ryan Wetie mougang , I am a 3rd year Computer Engineering student at Concordia University.
-- 🌱 I love coding and I like learning new technologies aswell as applying them by working on projects
-- 📫 You can contact me at ryandela44@outlook.fr
+- 👋 Hi, My name is Yvon Ryan Wetie Mougang, I am an embedded software developer.
+- 🌱 I love coding and I like learning new technologies as well as applying them by working on projects
+- 📫 You can contact me at yvonwetiemougang@outlook.com
